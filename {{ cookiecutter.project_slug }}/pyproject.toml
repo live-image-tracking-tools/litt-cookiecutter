@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools_scm]
 
 [project]
-name = {{ cookiecutter.project_slug }}
+name = "{{ cookiecutter.project_slug }}"
 description = "Short description"
 readme = "README.md"
 requires-python = ">=3.10"
