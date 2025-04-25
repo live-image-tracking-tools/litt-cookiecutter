@@ -1,4 +1,4 @@
-name: Test {{ cookiecutter.project_name }}
+name: Test
 
 on:
   pull_request:
