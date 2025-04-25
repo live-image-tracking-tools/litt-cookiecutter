@@ -1,0 +1,11 @@
+[project]
+authors = ["Morgan Schwartz <msschwartz21@gmail.com>"]
+channels = ["conda-forge"]
+name = "litt-cookiecutter"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+cruft = ">=2.16.0,<3"
