@@ -4,10 +4,6 @@ site_url: https://live-image-tracking-tools.github.io/{{ cookiecutter.project_sl
 
 theme:
   name: "material"
-  # palette:
-  #   scheme: slate
-  #   primary: purple
-  #   accent: purple
 
 extra:
   version:
